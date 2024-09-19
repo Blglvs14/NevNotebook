@@ -1,7 +1,7 @@
 # NevNotebook
 https://www.kaggle.com/code/bmzeynepner/nevnotebook
 
-Dipnott: İlk defa ReadMe yazıyorum. Geliştirmeye de vaktim olmadı, çirkinliğinin kusuruna bakmayın :)
+<b>Dipnot</b>t: İlk defa ReadMe yazıyorum. Geliştirmeye de vaktim olmadı, çirkinliğinin kusuruna bakmayın :)
 
 df.info()
 <class 'pandas.core.frame.DataFrame'>
